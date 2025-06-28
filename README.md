@@ -238,12 +238,14 @@ npm run build
 - Verify all dependencies are installed
 - Run `npm run build` to see detailed errors
 
-## 📚 Resources
+## 📚 Resources & Learning Guide
 
 - [Vite Documentation](https://vitejs.dev/)
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/)
 - [Vite React Plugin](https://github.com/vitejs/vite-plugin-react)
+- [Tailwind CSS Learning Guide - From Zero to Hero](./docs/tailwind/readme.md)
+- [Enhanced LLM + Figma Integration Plan for AI System Builders](./docs/figma_ai/readme.md)
 
 ## 🤝 Contributing
 
